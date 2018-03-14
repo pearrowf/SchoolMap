@@ -1,0 +1,8 @@
+{
+  "name": "schoolMap",
+  "app_id": "52cb1fc2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
